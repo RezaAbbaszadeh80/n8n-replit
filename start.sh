@@ -10,6 +10,6 @@ export N8N_PORT=$PORT
 
 export WEBHOOK_URL=https://n8n-replit-abaszadereza41.repl.co
 
-export WEBHOOK_URL=https://5a646b56-90af-4ea0-bd3a-84c542ae3a88-00-2841n6qrygut1.picard.repl.co/
+export WEBHOOK_URL=https://f827136d-4c27-4fbc-a75f-a74ec2a0b40c-00-zj4e1iza78ld.kirk.repl.co:3000/
 
 npx n8n
