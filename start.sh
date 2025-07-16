@@ -1,8 +1,8 @@
 #!/bin/bash
 
 export N8N_BASIC_AUTH_ACTIVE=true
-export N8N_BASIC_AUTH_USER=abaszadereza41@gmail.com
-export N8N_BASIC_AUTH_PASSWORD=Hsra1234@
+export N8N_BASIC_AUTH_USER=admin
+export N8N_BASIC_AUTH_PASSWORD=supersecret
 export DB_TYPE=sqlite
 
 export PORT=3000
